@@ -336,7 +336,7 @@ do -- UI
 		end)
 
 		ScriptsTab:NewButton("M41451", "Rainbow AK47 needed join the discord for hat.", function()
-			loadstring(game:HttpGetAsync("https://pastebin.com/raw/xT121cRL"))()
+			loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/sillyfawn9/thing/main/thing%20gun"))()
 		end)
 
 		ScriptsTab:NewButton("Master Of Elements", "Badass script.", function()
